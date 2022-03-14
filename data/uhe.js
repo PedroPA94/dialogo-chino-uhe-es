@@ -71,7 +71,7 @@ var uhe = [
   },
   {
     "name": "JRN-117a (São Simão Alto)",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049116-0",
     "river": "Juruena",
     "power_kw": "3.509.000,00",
@@ -85,7 +85,7 @@ var uhe = [
   },
   {
     "name": "Chacorão",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049127-6",
     "river": "Tapajós",
     "power_kw": "3.336.000,00",
@@ -141,7 +141,7 @@ var uhe = [
   },
   {
     "name": "JRN-234b",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049117-9",
     "river": "Juruena",
     "power_kw": "1.461.000,00",
@@ -155,7 +155,7 @@ var uhe = [
   },
   {
     "name": "JRN-277",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049118-7",
     "river": "Juruena",
     "power_kw": "1.248.000,00",
@@ -183,7 +183,7 @@ var uhe = [
   },
   {
     "name": "Santa Isabel",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.028566-8",
     "river": "Araguaia",
     "power_kw": "1.080.000,00",
@@ -197,7 +197,7 @@ var uhe = [
   },
   {
     "name": "Araguanã",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.048705-8",
     "river": "Araguaia",
     "power_kw": "960.000,00",
@@ -239,7 +239,7 @@ var uhe = [
   },
   {
     "name": "A41PA008 (Panama)",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048523-3",
     "river": "Paru",
     "power_kw": "870.400,00",
@@ -253,7 +253,7 @@ var uhe = [
   },
   {
     "name": "Açaipé B",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048571-3",
     "river": "Jari",
     "power_kw": "831.100,00",
@@ -281,7 +281,7 @@ var uhe = [
   },
   {
     "name": "Prainha",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.035035-4",
     "river": "Aripuanã",
     "power_kw": "796.400,00",
@@ -337,7 +337,7 @@ var uhe = [
   },
   {
     "name": "JRN-466",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049119-5",
     "river": "Juruena",
     "power_kw": "510.000,00",
@@ -365,7 +365,7 @@ var uhe = [
   },
   {
     "name": "Ipueiras",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.034554-7",
     "river": "Tocantins",
     "power_kw": "480.000,00",
@@ -379,7 +379,7 @@ var uhe = [
   },
   {
     "name": "Sumaúma",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.035036-2",
     "river": "Aripuanã",
     "power_kw": "458.200,00",
@@ -393,7 +393,7 @@ var uhe = [
   },
   {
     "name": "JRN-530",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049120-9",
     "river": "Juruena",
     "power_kw": "415.000,00",
@@ -449,7 +449,7 @@ var uhe = [
   },
   {
     "name": "Cachoeira Galinha",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049064-4",
     "river": "Roosvelt",
     "power_kw": "399.800,00",
@@ -477,7 +477,7 @@ var uhe = [
   },
   {
     "name": "Inferninho",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.037808-9",
     "river": "Roosevelt",
     "power_kw": "361.100,00",
@@ -505,7 +505,7 @@ var uhe = [
   },
   {
     "name": "Mortes 2",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.049076-8",
     "river": "Rio das Mortes",
     "power_kw": "310.400,00",
@@ -561,7 +561,7 @@ var uhe = [
   },
   {
     "name": "Quebra Remo",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.037807-0",
     "river": "Aripuanã",
     "power_kw": "267.800,00",
@@ -589,7 +589,7 @@ var uhe = [
   },
   {
     "name": "ARN-026",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049111-0",
     "river": "Arinos",
     "power_kw": "252.000,00",
@@ -645,7 +645,7 @@ var uhe = [
   },
   {
     "name": "Kabiara",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049036-9",
     "river": "Rio do Sangue",
     "power_kw": "241.200,00",
@@ -659,7 +659,7 @@ var uhe = [
   },
   {
     "name": "Carecuru",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048573-0",
     "river": "Jari",
     "power_kw": "240.200,00",
@@ -673,7 +673,7 @@ var uhe = [
   },
   {
     "name": "A17PA118 (AHE Bacuri)",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048552-7",
     "river": "Paru",
     "power_kw": "225.700,00",
@@ -687,7 +687,7 @@ var uhe = [
   },
   {
     "name": "JRN-577",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049121-7",
     "river": "Juruena",
     "power_kw": "225.000,00",
@@ -743,7 +743,7 @@ var uhe = [
   },
   {
     "name": "PEX-093",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049115-2",
     "river": "Rio dos Peixes",
     "power_kw": "206.000,00",
@@ -757,7 +757,7 @@ var uhe = [
   },
   {
     "name": "Paredão A",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.RR.049027-0",
     "river": "Mucajaí",
     "power_kw": "199.300,00",
@@ -771,7 +771,7 @@ var uhe = [
   },
   {
     "name": "Cinta Larga",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049037-7",
     "river": "Rio do Sangue",
     "power_kw": "193.700,00",
@@ -785,7 +785,7 @@ var uhe = [
   },
   {
     "name": "A29PA208 (Touré)",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048563-2",
     "river": "Paru",
     "power_kw": "186.300,00",
@@ -799,7 +799,7 @@ var uhe = [
   },
   {
     "name": "A38PA100",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048561-6",
     "river": "Paru",
     "power_kw": "177.800,00",
@@ -855,7 +855,7 @@ var uhe = [
   },
   {
     "name": "JRN-720",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049122-5",
     "river": "Juruena",
     "power_kw": "150.000,00",
@@ -883,7 +883,7 @@ var uhe = [
   },
   {
     "name": "A26PA184 (AHE Miriti)",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048562-4",
     "river": "Paru",
     "power_kw": "140.500,00",
@@ -925,7 +925,7 @@ var uhe = [
   },
   {
     "name": "Roncador",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049035-0",
     "river": "Rio do Sangue",
     "power_kw": "134.000,00",
@@ -939,7 +939,7 @@ var uhe = [
   },
   {
     "name": "Ilha São Pedro",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049065-2",
     "river": "Roosvelt",
     "power_kw": "131.000,00",
@@ -953,7 +953,7 @@ var uhe = [
   },
   {
     "name": "Alta Floresta",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.048671-0",
     "river": "Teles Pires",
     "power_kw": "127.800,00",
@@ -1009,7 +1009,7 @@ var uhe = [
   },
   {
     "name": "Ilha Três Quedas",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049066-0",
     "river": "Aripuanã",
     "power_kw": "115.500,00",
@@ -1051,7 +1051,7 @@ var uhe = [
   },
   {
     "name": "A34PA250 (AHE Samuã)",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048564-0",
     "river": "Paru",
     "power_kw": "104.100,00",
@@ -1065,7 +1065,7 @@ var uhe = [
   },
   {
     "name": "Taboa",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MA.048694-9",
     "river": "Rio das Balsas",
     "power_kw": "98.000,00",
@@ -1107,7 +1107,7 @@ var uhe = [
   },
   {
     "name": "Barra do Palma",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.049069-5",
     "river": "Palma",
     "power_kw": "85.000,00",
@@ -1121,7 +1121,7 @@ var uhe = [
   },
   {
     "name": "Bambu I",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AP.049154-3",
     "river": "Araguari",
     "power_kw": "84.000,00",
@@ -1135,7 +1135,7 @@ var uhe = [
   },
   {
     "name": "Cachoeira da Velha",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.049164-0",
     "river": "Novo",
     "power_kw": "81.000,00",
@@ -1163,7 +1163,7 @@ var uhe = [
   },
   {
     "name": "Toricoejo",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MA.048684-1",
     "river": "Rio das Mortes",
     "power_kw": "76.000,00",
@@ -1177,7 +1177,7 @@ var uhe = [
   },
   {
     "name": "PPG-159",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049113-6",
     "river": "Papagaio",
     "power_kw": "76.000,00",
@@ -1191,7 +1191,7 @@ var uhe = [
   },
   {
     "name": "SAN-020",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049112-8",
     "river": "Rio do Sangue",
     "power_kw": "75.000,00",
@@ -1205,7 +1205,7 @@ var uhe = [
   },
   {
     "name": "Santa Tereza",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.055257-7",
     "river": "Rio das Balsas",
     "power_kw": "74.500,00",
@@ -1219,7 +1219,7 @@ var uhe = [
   },
   {
     "name": "Parecis",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049034-2",
     "river": "Rio do Sangue",
     "power_kw": "74.500,00",
@@ -1261,7 +1261,7 @@ var uhe = [
   },
   {
     "name": "Água Branca",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "...",
     "river": "Amapari",
     "power_kw": "73.000,00",
@@ -1275,7 +1275,7 @@ var uhe = [
   },
   {
     "name": "Ponte Nova",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.049063-6",
     "river": "Rio do Sono",
     "power_kw": "73.000,00",
@@ -1289,7 +1289,7 @@ var uhe = [
   },
   {
     "name": "Fé Esperança",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.RR.049033-4",
     "river": "Mucajaí",
     "power_kw": "71.700,00",
@@ -1303,7 +1303,7 @@ var uhe = [
   },
   {
     "name": "Arraias",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.049068-7",
     "river": "Palma",
     "power_kw": "70.000,00",
@@ -1317,7 +1317,7 @@ var uhe = [
   },
   {
     "name": "Paredão M1",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.RR.049032-6",
     "river": "Mucajaí",
     "power_kw": "69.900,00",
@@ -1331,7 +1331,7 @@ var uhe = [
   },
   {
     "name": "PPG-115",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049114-4",
     "river": "Papagaio",
     "power_kw": "68.000,00",
@@ -1359,7 +1359,7 @@ var uhe = [
   },
   {
     "name": "Barra do Claro",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049137-3",
     "river": "Arinos",
     "power_kw": "61.000,00",
@@ -1373,7 +1373,7 @@ var uhe = [
   },
   {
     "name": "Vermelho",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.049019-9",
     "river": "Rio do Sono",
     "power_kw": "58.900,00",
@@ -1387,7 +1387,7 @@ var uhe = [
   },
   {
     "name": "Porto da Serra I",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AP.049155-1",
     "river": "Araguari",
     "power_kw": "54.000,00",
@@ -1401,7 +1401,7 @@ var uhe = [
   },
   {
     "name": "JUI-048",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.AM.049213-2",
     "river": "Juína",
     "power_kw": "53.000,00",
@@ -1429,7 +1429,7 @@ var uhe = [
   },
   {
     "name": "São Domingos",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.037666-3",
     "river": "Paranã",
     "power_kw": "50.000,00",
@@ -1513,7 +1513,7 @@ var uhe = [
   },
   {
     "name": "Taquara",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PI.048689-2",
     "river": "Parnaíba",
     "power_kw": "43.000,00",
@@ -1541,7 +1541,7 @@ var uhe = [
   },
   {
     "name": "Buritizal",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049025-3",
     "river": "Rio das Mortes",
     "power_kw": "42.800,00",
@@ -1597,7 +1597,7 @@ var uhe = [
   },
   {
     "name": "Jatobá",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049022-9",
     "river": "Rio das Mortes",
     "power_kw": "41.800,00",
@@ -1625,7 +1625,7 @@ var uhe = [
   },
   {
     "name": "Boaventura",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.033997-0",
     "river": "Rio das Garças",
     "power_kw": "32.100,00",
@@ -1639,7 +1639,7 @@ var uhe = [
   },
   {
     "name": "Natividade",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.TO.040668-6",
     "river": "Manuel Alves",
     "power_kw": "29.500,00",
@@ -1667,7 +1667,7 @@ var uhe = [
   },
   {
     "name": "Berimbau",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.PA.048747-3",
     "river": "Curuá",
     "power_kw": "26.000,00",
@@ -1695,7 +1695,7 @@ var uhe = [
   },
   {
     "name": "Garça",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.049039-3",
     "river": "Ponte de Pedra",
     "power_kw": "24.900,00",
@@ -1709,7 +1709,7 @@ var uhe = [
   },
   {
     "name": "A1E9",
-    "owner": "Sem proprietário",
+    "owner": "Sin propietario",
     "ceg": "UHE.PH.MT.048565-9",
     "river": "Verde",
     "power_kw": "21.900,00",
