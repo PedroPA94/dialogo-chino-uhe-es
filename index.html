@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-    <title>Hidrelétricas na Amazônia</title>
+    <title>Hidroeléctricas en Amazonía</title>
     <meta name="description" content="Hidrelétricas na Amazônia">
     <meta name="author" content="Pedro Papini"> <!--Based on code by Julia Janicki git: jhjanicki-->
     <link rel="shortcut icon" href="#">
@@ -27,10 +27,10 @@
         <span id="toggleConsole">
           <img src="./img/toggle.png"/>
         </span>
-        <h1 id='title'>Grandes hidrelétricas na Amazônia (1975-2022)</h1>
+        <h1 id='title'>Grandes represas hidroeléctricas en la Amazonía en Brasil (1975-2022)</h1>
         <div class='itemWrapper'>
           <img class='item2' src="./img/legend.svg"/>
-          <h2 class="legend">Amazônia Legal*</h2>
+          <h2 class="legend">Amazonía Legal*</h2>
         </div>
         <div class="itemWrapper" id="investment">
           <div class="itemWrapper">
@@ -38,12 +38,12 @@
               <div class="circlesRegion china"></div>
             </div>
             <div class="circlesLegend item">
-              <h2 class="legend">Investimento chinês</h2>
+              <h2 class="legend">Inversion china</h2>
             </div>
           </div>
         </div>
         <div class='row itemWrapper'>
-          <h2 class="subtitle">Status da hidrelétrica</h2>
+          <h2 class="subtitle">Estado de la central hidroeléctrica</h2>
         </div>
         <div class="itemWrapper">
           <div class='row toggle item filters' id="filterOperational">
@@ -52,7 +52,7 @@
             <div class="toggle__pointer op__pointer"></div>
           </div>
           <div class="item">
-            <h2 id="operational">Em operação</h2>
+            <h2 id="operational">En funcionamiento</h2>
           </div>
         </div>
         <div class="itemWrapper">
@@ -62,7 +62,7 @@
             <div class="toggle__pointer pr__pointer"></div>
           </div>
           <div class="item">
-            <h2 id="project">Planejada</h2>
+            <h2 id="project">Planificado</h2>
           </div>
         </div>
         <div class="itemWrapper">
@@ -76,17 +76,17 @@
           </div>
         </div>
         <div class="instruction itemWrapper" id="instruction">
-          <p class="item">Clique nos círculos para informações sobre cada usina</p>
+          <p class="item">Haga clic en los círculos para obtener información sobre cada planta</p>
         </div>
         <div class='instruction itemWrapper'>
-          <h2 class='dataSource'>Fonte: SIGEL/ANEEL | Apenas usinas hidrelétricas de grande porte (UHE)<br>
-                                 *A Amazônia Legal abrange nove estados do Norte e Centro-Oeste que compõem a bacia amazônica<br>
-                                 **Áreas de interesse identificadas pela Agência Nacional de Energia Elétrica</h2>
+          <h2 class='dataSource'>Fuente: SIGEL/ANEEL | Sólo las grandes centrales hidroeléctricas (UHE)<br>
+                                 *La Amazonía Legal comprende nueve estados brasileños del Norte y del Medio Oeste que conforman la cuenca del Amazonas<br>
+                                 **Áreas de interés identificadas por la Agencia Nacional de Electricidad de Brasil</h2>
         </div>
       </div>
     </div>
     <div class="search-input active" id="search-input">
-      <input class="searchbar" type="text" value="" placeholder="Busque pelo nome da usina">
+      <input class="searchbar" type="text" value="" placeholder="Buscar por nombre de central eléctrica">
       <div class="autocomplete-box" id="auto-box">
         <!-- Displays search suggestions -->
       </div>
@@ -290,10 +290,10 @@
             className: popupClass
           })
           .setHTML('<h3 class="popupClass">' + usina + '</h3>' +
-                  '<h4><b>Início da operação</b>: ' + year + '<br>' +
-                  '<b>Potência</b>: ' + power.slice(0, -3) + 'MW<br>' + 
-                  '<b>Rio</b>: ' + river + '<br>' +
-                  '<b>Proprietário(s)</b>: ' + owner + '</h4>')
+                  '<h4><b>Inicio de la operación</b>: ' + year + '<br>' +
+                  '<b>Potencia</b>: ' + power.slice(0, -3) + 'MW<br>' + 
+                  '<b>Río</b>: ' + river + '<br>' +
+                  '<b>Propietario(s)</b>: ' + owner + '</h4>')
           .setLngLat([longitude, latitude])
           .addTo(map);
 
@@ -344,10 +344,10 @@
               focusAfterOpen: false
           }).setHTML(
               '<h3 class="popupClass">' + uhe[plantIndex].name + '</h3>' +
-              '<h4><b>Início da operação</b>: ' + uhe[plantIndex].operation + '<br>' +
-              '<b>Potência</b>: ' + geoJsonData.features[plantIndex].properties.power.slice(0, -3) + 'MW<br>' +
-              '<b>Rio</b>: ' + uhe[plantIndex].river + '<br>' +
-              '<b>Proprietário(s)</b>: ' + uhe[plantIndex].owner + '</h4>'))
+              '<h4><b>Inicio de la operación</b>: ' + uhe[plantIndex].operation + '<br>' +
+              '<b>Potencia</b>: ' + geoJsonData.features[plantIndex].properties.power.slice(0, -3) + 'MW<br>' +
+              '<b>Río</b>: ' + uhe[plantIndex].river + '<br>' +
+              '<b>Propietario(s)</b>: ' + uhe[plantIndex].owner + '</h4>'))
           .addTo(map);
 
           marker.togglePopup();
