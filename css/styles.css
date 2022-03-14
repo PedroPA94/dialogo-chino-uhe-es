@@ -299,7 +299,7 @@ body {
 
 .search-input {
     position: absolute;
-    margin-top: 530px;
+    margin-top: 550px;
     margin-left: 10px;
     background: #F0F0F1;
     border-radius: 5px;
@@ -449,7 +449,7 @@ body {
     /* search bar */
     
     .search-input {
-        top: -500px;
+        top: -520px;
         left: 260px;
         font-size: 11.5px;
     }
