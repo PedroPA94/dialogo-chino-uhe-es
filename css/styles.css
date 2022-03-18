@@ -222,6 +222,85 @@ body {
     color: #5a5a5a;
 }
 
+.sliderWrapper {
+    padding-top: 12px;
+}
+
+.slider{
+  -webkit-appearance: none;
+  width: 100%;
+  height: 14px;
+  border-radius: 15px;
+  background: #cfcfcf;
+  outline: none;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%; 
+  background: #777777;
+  cursor: pointer;
+    
+}
+  
+.slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #777777;
+  cursor: pointer;
+}
+
+.sliderWrapper p{
+  padding-left: 8%;
+  margin-bottom: -8px;
+}
+
+#minPower, #maxPower, #circleMin, #circleMax {
+  position: relative;
+  font-size: 0.8em;
+}
+
+#minPower {
+  right: 8%;
+}
+
+#maxPower {
+  left: 61%;
+}
+
+.powerLegend {
+  margin-top: -10px;
+}
+
+#circleMin::before {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  margin-left: 8%;
+  margin-right: 5px;
+  content: "";
+  background-color: #cfcfcf;
+  display: inline-block
+}
+
+#circleMax::before {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%; 
+  margin-left: 15%;
+  margin-right: 5px;
+  content: "";
+  background-color: #cfcfcf;
+  display: inline-block;
+  vertical-align: middle;
+}
+
 
 
 /* mapbox styles */
@@ -437,6 +516,12 @@ body {
     .circlesLegend {
         left: 16px;
     }
+    
+    .sliderWrapper p{
+        font-size: 11.5px;
+        margin-left: 5%;
+    }
+
 
     
     /* mapbox */
@@ -506,6 +591,11 @@ body {
     
     .circlesLegend {
         margin-left: 10px;
+    }
+    
+    .sliderWrapper p{
+        font-size: 10px;
+        margin-left: 7%;
     }
 
     
