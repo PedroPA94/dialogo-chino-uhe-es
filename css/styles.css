@@ -518,13 +518,17 @@ body {
         left: 16px;
     }
     
-    .sliderWrapper p{
+    .sliderWrapper p {
         font-size: 11.5px;
         margin-left: 5%;
     }
     
     .dataSource {
         line-height: 1.2;
+    }
+    
+    .instruction p {
+        font-size: 10px;
     }
 
 
